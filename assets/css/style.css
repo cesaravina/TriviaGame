@@ -1,0 +1,21 @@
+#wrapper { 
+	width: 800px; margin: 0 auto; 
+}
+
+
+
+body {
+	font-weight: bolder;
+ 	background-image: url("http://bsnscb.com/data/out/117/39637169-liquor-wallpapers.jpg");
+    background-color: #cccccc;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
