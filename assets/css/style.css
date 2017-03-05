@@ -5,7 +5,7 @@
 
 
 body {
-	font-weight: bolder;
+	font-weight: bold;
  	background-image: url("http://bsnscb.com/data/out/117/39637169-liquor-wallpapers.jpg");
     background-color: #cccccc;
 }
@@ -19,3 +19,7 @@ img.center {
   margin-left: auto;
   margin-right: auto;
 }
+
+
+
+
